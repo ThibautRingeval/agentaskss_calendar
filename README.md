@@ -22,7 +22,7 @@ Assurez-vous d'avoir Flutter installé sur votre machine. Clonez ensuite le dép
 
 ```bash
 flutter pub get
-
+```
 ---
 
 ## 2. Configuration <a name="configuration"></a>
