@@ -36,7 +36,7 @@ class AppConfig {
   static const String mockApiUrl = "https://api.mockapi.io/v1/users";
   // Ajoutez d'autres configurations au besoin
 }
-
+```
 ---
 
 ## 3. Utilisation <a name="utilisation"></a>
