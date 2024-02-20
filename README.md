@@ -45,17 +45,17 @@ class AppConfig {
 
 ## 3. Utilisation <a name="utilisation"></a>
 
-### 3.1 Consultation de l'emploi du temps <a name="consultation-de-lemploi-du-temps"></a>
+### 3.1 Consultation de l'agenda <a name="consultation-de-lemploi-du-temps"></a>
 
-Accédez à l'onglet "Emploi du temps" pour visualiser votre planning. Les informations sont récupérées en temps réel depuis la source de données.
+Accédez à l'onglet "Accéder à l'agenda" pour visualiser votre planning. Les informations sont récupérées en temps réel depuis la source de données.
 
 ### 3.2 Enregistrement et Connexion <a name="enregistrement-et-connexion"></a>
 
-Utilisez l'onglet "Enregistrement" pour créer un nouveau compte. Une fois enregistré, vous pouvez vous connecter via l'onglet "Connexion" en utilisant vos identifiants.
+Utilisez l'onglet "Enregistrement" pour créer un nouveau compte. Une fois enregistré, vous pouvez vous connecter via l'onglet "Connexion" lorsque vous ouvrirez l'application la prochaine fois en utilisant vos identifiants.
 
 ### 3.3 Gestion des alertes <a name="gestion-des-alertes"></a>
 
-Naviguez vers l'écran dédié à la gestion des alertes pour créer, modifier ou supprimer des alertes pour des événements spécifiques de votre emploi du temps.
+Naviguez vers l'écran dédié à la gestion des alertes pour créer, modifier ou supprimer des alertes pour des événements spécifiques de votre emploi du temps dans "Ajoutez des devoirs".
 
 ---
 
