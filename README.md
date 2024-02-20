@@ -3,6 +3,10 @@
 Agentask est une application Flutter conçue pour vous permettre de consulter un emploi du temps, de vous enregistrer, de vous connecter et de créer des alertes via un écran dédié. L'application utilise MockAPI pour la gestion des utilisateurs.
 
 ---
+Thibaut Ringeval
+Meline Godefroy
+Maxence Locmant
+---
 
 ## Table des matières
 
